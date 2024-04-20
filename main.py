@@ -26,12 +26,12 @@ except:
             note()
         
 def print_menu():
-    print("1. Add Task")
-    print("2. Display List of All Task")
-    print("3. Delete Task")
-    print("4. Load Saved Task")
-    print("5. Save Task")
-    print("6. Exit")
+    print("Press 1 to Add Task")
+    print("Press 2 to Display List of All Task")
+    print("Press 3 to Delete Task")
+    print("Press 4 to Load Saved Task")
+    print("Press 5 to Save Task")
+    print("Press 6 to Exit")
 n = 0
 def UniqueID():
     global n 
@@ -121,7 +121,7 @@ def main():
                         print(file)
                 except enumerate:
                     messagebox.showwarning("Caution",f"Error {enumerate} or No Added Task First add some task to Load")
-        
+                    pass
             elif choice == 5:
                 try:
                     if value==[]:
@@ -138,13 +138,13 @@ def main():
             elif choice == 6:
                 if choice==6:
                     break
-                else:
-                    sys.exit()
+                    
             else:
                 print("Invalid choice. Please try again.")
     except Exception as e:
-        messagebox.showwarning('Caution',f'Type Numerical Value {e}')
-        sys.exit()
+        messagebox.showwarning('Caution',f'Press 1 to Add Task First')
+        python = sys.executable
+        os.system(f"{python} {sys.argv[0]}")
 class Display:
     def __init__(self):
         self.asf = Tk()
