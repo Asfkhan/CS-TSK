@@ -1,2 +1,1 @@
-# CODING-SAMURAI-INTERSHIIP-TASK
 #Python Development
