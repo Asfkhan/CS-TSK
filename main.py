@@ -148,7 +148,7 @@ def main():
 class Display:
     def __init__(self):
         self.asf = Tk()
-        self.asf.title('ToDoList')
+        self.asf.title('MyBucket')
         self.clmns=("id", "title", "desc")
         self.style = ttk.Style()
         self.style.configure("mystyle.Treeview", fieldbackground="lightblue",background="lightblue", font=('Calibri', 11)) 
