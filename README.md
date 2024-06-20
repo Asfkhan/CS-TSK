@@ -8,5 +8,6 @@
 ![readme4](https://github.com/Asfkhan/CS-TSK/assets/121487627/ae4619e3-3857-4da0-80cc-9fd9fc31d5bf)
 ![readme3](https://github.com/Asfkhan/CS-TSK/assets/121487627/e3142977-8c66-4bc7-8e2b-8e89697abf64)
 ![readme2](https://github.com/Asfkhan/CS-TSK/assets/121487627/27f9209e-1108-4b3b-96ca-dff666dae0f5)
-![readme1](https://github.com/Asfkhan/CS-TSK/assets/121487627/963482f2-b835-4add-8121-f85a532fbeef)
+![realme2](https://github.com/Asfkhan/CS-TSK/assets/121487627/a5c5f753-e332-4fba-bc52-eba0c2aa8706)
+
 
