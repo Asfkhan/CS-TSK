@@ -161,7 +161,7 @@ class Display:
         self.treeview.heading("title", text="Title", anchor=CENTER)
         self.treeview.heading("desc", text="Description", anchor=CENTER)
 
-        self.title1label = Label(self.asf, text="TO DO LIST", fg="green", background="yellow", font="time 15 bold",anchor=CENTER)
+        self.title1label = Label(self.asf, text="My Bucket", fg="green", background="yellow", font="time 15 bold",anchor=CENTER)
         self.title1label.grid(row=0, columnspan=6, column=0,pady=10)
 
         try :
